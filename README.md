@@ -116,13 +116,25 @@ Add a screenshot of the Swagger UI showing the '/generate_story' endpoint.
 
 ![1](https://github.com/user-attachments/assets/1616c917-c5ae-48cf-9032-387d68fdd550)
 
+
+https://github.com/user-attachments/assets/600ee9dc-32aa-4440-abe9-169d0dfaaaf8
+
+
 ### Request Example 2: Normal Speed, 3 Sentences
 
 ![2](https://github.com/user-attachments/assets/7f2a2212-9a56-4083-9998-460e8c3c104b)
 
+
+https://github.com/user-attachments/assets/6c01b9ac-9378-4ff5-be04-7d8c9cca11c7
+
+
 ### Request Example 3: Fast Speed, 4 Sentences
 
 ![3](https://github.com/user-attachments/assets/47781276-895a-45f4-bc1e-892720674eea)
+
+
+https://github.com/user-attachments/assets/5490d5f5-e18d-4bd9-a307-7a7d1aa279e5
+
 
 ---
 
