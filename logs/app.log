@@ -1,0 +1,32 @@
+2024-12-13 16:29:03,087 - app - INFO - Request URL: http://127.0.0.1:5000/apidocs/
+2024-12-13 16:29:03,092 - app - INFO - Request Method: GET
+2024-12-13 16:29:03,101 - app - INFO - Request Data: b''
+2024-12-13 16:29:03,181 - app - INFO - Response Status: 200 OK
+2024-12-13 16:29:03,251 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui-bundle.js
+2024-12-13 16:29:03,254 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui.css
+2024-12-13 16:29:03,258 - app - INFO - Request Method: GET
+2024-12-13 16:29:03,261 - app - INFO - Request Method: GET
+2024-12-13 16:29:03,263 - app - INFO - Request Data: b''
+2024-12-13 16:29:03,265 - app - INFO - Request Data: b''
+2024-12-13 16:29:03,531 - app - INFO - Response Status: 200 OK
+2024-12-13 16:29:03,536 - app - INFO - Response Status: 200 OK
+2024-12-13 16:29:03,871 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/swagger-ui-standalone-preset.js
+2024-12-13 16:29:03,875 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/lib/jquery.min.js
+2024-12-13 16:29:03,880 - app - INFO - Request Method: GET
+2024-12-13 16:29:03,882 - app - INFO - Request Method: GET
+2024-12-13 16:29:03,886 - app - INFO - Request Data: b''
+2024-12-13 16:29:03,890 - app - INFO - Request Data: b''
+2024-12-13 16:29:03,896 - app - INFO - Response Status: 200 OK
+2024-12-13 16:29:03,899 - app - INFO - Response Status: 200 OK
+2024-12-13 16:29:04,076 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/favicon-32x32.png
+2024-12-13 16:29:04,080 - app - INFO - Request Method: GET
+2024-12-13 16:29:04,081 - app - INFO - Request Data: b''
+2024-12-13 16:29:04,085 - app - INFO - Response Status: 200 OK
+2024-12-13 16:29:04,150 - app - INFO - Request URL: http://127.0.0.1:5000/apispec_1.json
+2024-12-13 16:29:04,154 - app - INFO - Request Method: GET
+2024-12-13 16:29:04,156 - app - INFO - Request Data: b''
+2024-12-13 16:29:04,179 - app - INFO - Response Status: 200 OK
+2024-12-13 16:29:04,823 - app - INFO - Request URL: http://127.0.0.1:5000/flasgger_static/favicon-32x32.png
+2024-12-13 16:29:04,828 - app - INFO - Request Method: GET
+2024-12-13 16:29:04,832 - app - INFO - Request Data: b''
+2024-12-13 16:29:04,837 - app - INFO - Response Status: 304 NOT MODIFIED
