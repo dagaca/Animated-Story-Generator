@@ -106,7 +106,7 @@ animated-story-generator/
 
 ## Swagger UI
 
-Add a screenshot of the Swagger UI showing the '/generate_story' endpoint.
+You can see the Swagger UI below, showcasing the /generate_story endpoint in action.
 
 ![image](https://github.com/user-attachments/assets/4d7e4cfe-15c5-4bb1-abbc-ddbcfdb28cac)
 
